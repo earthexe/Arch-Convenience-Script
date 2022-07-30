@@ -1,7 +1,7 @@
 # Arch-Convenience-Script
 Just clone this script, run it, and you're done!
 
-After you are in the arch-chroot, and you installed GRUB, run this script to set up Audio, WiFi, and Discover on Arch Linux!
+After you are in the arch-chroot, and you installed GRUB, run this script to set up KDE, Audio, WiFi, and Discover on Arch Linux!
 
 Commands to get this: 
 
