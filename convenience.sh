@@ -13,4 +13,5 @@ systemctl start NetworkManager
 systemctl enable NetworkManager
 pacman -S xorg plasma plasma-wayland-session kde-applications 
 systemctl enable sddm.service
+pacman -R dhcpcd
 reboot
