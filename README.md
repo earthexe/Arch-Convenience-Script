@@ -6,4 +6,6 @@ After installing Arch Linux, run this script to set up Audio on Arch Linux!
 Commands to get this: 
 
 
-{sudo pacman -S wget}
+sudo pacman -S wget
+wget https://github.com/earthexe/Arch-Convenience-Script/edit/main/convenience.sh
+sh convenience.sh
