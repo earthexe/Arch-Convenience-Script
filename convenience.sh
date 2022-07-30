@@ -10,5 +10,7 @@ systemctl stop wpa_supplicant
 systemctl enable iwd
 systemctl start iwd
 systemctl start NetworkManager
-systemctl enable NetworkManager 
+systemctl enable NetworkManager
+pacman -S xorg plasma plasma-wayland-session kde-applications 
+systemctl enable sddm.service
 reboot
