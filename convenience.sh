@@ -11,3 +11,4 @@ systemctl enable iwd
 systemctl start iwd
 systemctl start NetworkManager
 systemctl enable NetworkManager 
+reboot
